@@ -37,15 +37,24 @@
 
     <!--MAIN BODY: REFERAL DIV-->
 
+<section class="referral-section">
+    <div class="referral-container">
+        <h2>Track Request</h2>
+        <p class="referral-subtext">
+            Enter your reference number to track your request, order, or appointment status.
+        </p>
 
+        <div class="referral-box">
+            <input type="text" placeholder="Reference number">
 
+            <p class="referral-help">
+                Forgot your reference number? <a href="#">Click here</a>
+            </p>
 
-
-
-
-
-
-
+            <button class="referral-btn">Check Status</button>
+        </div>
+    </div>
+</section>
 
     <!--ENDS HERE-->
 
